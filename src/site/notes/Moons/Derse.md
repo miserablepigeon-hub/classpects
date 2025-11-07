@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/moons/derse/","noteIcon":""}
+---
+
+Derse Dreamers have personalities marked by a distinct and restless skepticism. Whatever their waking circumstances, chances are they will live in a state of dissatisfaction. Rebellion is in their blood, manifesting whether they are fighting back against a fascist dictatorship, or the most recent trend in casual footwear. Derse Dreamers are cerebral and self-aware; they have a far better grasp on the landscape of their own minds than on the world around them, which they can find alienating and confusing. But as so much of their identity is built on control, they will do their utmost to hide any insecurities, often with false humility or self-deprecating humor. They may be inflexible and pessimistic, but they are also great problem solvers, facing conflicts head-on with shrewd, calculating minds. They see one true path among an infinite snarl of wrong ones. They tend to be introverted, but if you win their trust Derse Dreamers are extremely powerful allies. However, they find sincere vulnerability difficult and will often keep people at arm's length. Letting go and living in the moment is hard for a Derse Dreamer; they constantly look toward the future and analyze the past.
+

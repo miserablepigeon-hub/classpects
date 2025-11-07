@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/class-combos/the-knight/","noteIcon":""}
+---
+
+## [Role of the Giver - The Knight]
+
+Those born with the **Role of the Knight** are devoted and reliable. Or at least, they want to appear reliable to those they care about. Insecurities, fears, doubts, they don’t tend to share them, even with their most trusted and loved partners, unless they’re being pressed or in dire need to vent. Rather, Knights have a tendency to mask their true feelings in order to showcase themselves in a specific manner. They want to feel necessary, to know others trust them to give advice and offer help, and will rush to the aid of those who need it in a heartbeat, no matter the risk or how monumental the task, if they are needed, they will answer the call. Knights dislike inaction and will seek something to do, even in situations where it’s inadvisable to do so. As long as, in the end, they feel as though they have contributed and been useful in some way, as long as they managed to help others in some way, they will be happy. At their best, they are nurturing and great friends, always there when you need them the most. At their worst, they can be obsessive, reckless and needy.  
+  
+Knights may try to take charge of a situation, to try and live to the expectations of responsibility and reliability they themselves created, which doesn’t tend to end well for them. While not completely incapable of doing so, they’re most effective supporting their team rather than leading it, following the will of their **Aspect**, or aiding others through it. They cannot be Lone Heroes, and can only shine with the support of others, and specially, by supporting others. This tends to make Knights likeable and good to have around, even those who aren’t specially fit for fighting are capable of bringing ease with them. However, this need to aid others can be a heavy crux. Regardless of the situation, Knights are quick to blame themselves for mistakes, even if they themselves weren’t necessarily responsible. Furthermore, this instinct to aid anyone in need of help can easily lead them to rush ahead without thinking in the consequences, putting them in jeopardy.  
+  
+Being one of the Giver Classes, Knights are the Passive counterpart to [[Class Combos/The Page\|The Page]], and similar to them, their strengths lie in **Serving**. Providing, Weaponizing, Using or Distributing their Aspect in some way, or coming to other people’s Aid through the use of their Aspect. Knights are a versatile Class, just as well suited to keep those they care about from harm, as they are to Serve a crushing defeat to those who tried to harm them in the first place. Resourceful, quick to act, God help whoever dares lay a single finger on those a Knight is in service of, they will know no rest until they have ensured their loved ones are safe.
+
+### [[Class Combos/The Knight of Light\|The Knight of Light]]
+### [[Class Combos/The Knight of Hope\|The Knight of Hope]]
+### [[Class Combos/The Knight of Rage\|The Knight of Rage]]
+### [[Class Combos/The Knight of Life\|The Knight of Life]]
